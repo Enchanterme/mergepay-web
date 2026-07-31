@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "enchanterme-implementation",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "enchanterme-implementation": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "enchanterme-implementation",
+    "origin"
+  ]
+}
